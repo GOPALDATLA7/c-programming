@@ -25,13 +25,9 @@ It is standard by ANSI in 1989. It is a compiler language. The file extension is
 6. sub program section. (user defined)
    
    ex:
-
-   #include<stdio.h>   //link section
-
-    void main()         //main section
-
-    {
-
-        printf("Hello World");  //executable 
-
-    }
+   
+         #include<stdio.h>   //link section
+         void main()         //main section
+         {
+              printf("Hello World");  //executable 
+          }

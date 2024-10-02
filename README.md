@@ -31,3 +31,16 @@ It is standard by ANSI in 1989. It is a compiler language. The file extension is
          {
               printf("Hello World");  //executable 
           }
+# Variables, Keywords, Identifiers in C
+Variable : The name of the variable can be consist of alphabets(both upper and lower), numbers, and one special character that is underscore(_). There are some certain rules like.
+1. Variable name should not start with number.
+2. No space between words.
+3. Variable name should not be keyword.
+   example:
+         Number_of_people = 10    (correct)
+         _n = 1                   (correct)
+         hel no = 10              (wrong)
+   
+Keywords : They are called as reserved words, pre-defined words. There are 32 keywords in C. They are also known as building blocks. Keywords are in lowercase letters. Some of the keywords like int, float, break, goto, if, for, continue, while, do, switch, auto, double, etc.
+
+Identifiers : Name of an variable, function,  etc will be known as identifiers. The keyword should not be used as Identifiers. The identifers name follows the same rule as variables follow.

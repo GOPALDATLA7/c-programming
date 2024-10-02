@@ -1,7 +1,7 @@
 # C
 Dennis Ritche developed in 1972 at Bell labs.
 It is standard by ANSI in 1989. It is a compiler language. The file extension is (.c).
-# Features
+## Features
 1. High level language.
 2. 32 Keywords
 3. Portable
@@ -14,7 +14,7 @@ It is standard by ANSI in 1989. It is a compiler language. The file extension is
 10. Case sensitive.
 11. We can use it in embedded systems.
 12. It is platform dependent.
-# Structure
+## Structure
 1. Documentation. (Like comments single line(//), multiple lines(/* */))
 2. Link section. (#include<stdio.h>, <conio.h>, <math.h>, etc)
 3. Definition section. (declaring of constants like #define PI 3.14)
@@ -31,7 +31,7 @@ It is standard by ANSI in 1989. It is a compiler language. The file extension is
          {
               printf("Hello World");  //executable 
           }
-# Variables, Keywords, Identifiers in C
+## Variables, Keywords, Identifiers in C
 Variable : The name of the variable can be consist of alphabets(both upper and lower), numbers, and one special character that is underscore(_). There are some certain rules like.
 1. Variable name should not start with number.
 2. No space between words.
